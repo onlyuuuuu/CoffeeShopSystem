@@ -54,6 +54,6 @@
   - Shell scripts
   - Python (if required)
 
-For testing, probably a good idea to use Selenium for writing scripted test cases in Java, but I've never done it before, same thing for the Liquibase migration.
+For testing, probably a good idea to use Selenium for writing scripted test cases in Java, but I've never done it before, same thing for the Liquibase migration. But it's always easy for me to learn new stuffs anyway.
 
 Sorry for not including some more details in this since I've just started working on this yesterday, I was quite busy at the weekend. My apology. Thanks for reviewing, very much appreciate it. Have a good day.
